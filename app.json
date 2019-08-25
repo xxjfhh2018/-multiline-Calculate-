@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#da7c0c",
+    "navigationBarTitleText": "多行计算器",
+    "navigationBarTextStyle":"white"
+  }
+}
